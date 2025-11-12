@@ -32,7 +32,7 @@ I enjoy solving complex problems, crafting smooth UIs, and transforming creative
 
 ### 🗄️ Backend & Database  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![REST API](https://img.shields.io/badge/RESTAPI-02569B?style=for-the-badge)
 
 ### 🧰 Tools & IDEs  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
