@@ -35,7 +35,6 @@ I love:
 ### 📱 **Frameworks & State Management**
 - Flutter  
 - GetX  
-- Provider  
 - Custom Widgets & Animations  
 
 ### ☁️ **Backend & Cloud**
