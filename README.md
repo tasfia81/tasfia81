@@ -100,7 +100,7 @@ A delivery & tracking app designed to simplify logistics.
 
 ## 🌐 **Connect With Me**
 
-- 📩 Email: your-email@example.com  
+- 📩 Email: tasfiaislam502@gmail.com  
 - 💼 LinkedIn: your-linkedin-profile  
 - 🐙 GitHub: your-github-username  
 
