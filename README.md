@@ -1,103 +1,114 @@
 <div align="center">
 
-# 🧑‍💻 **Tasfia Sumaiya Ritu**
-### *Flutter Developer | Mobile App Engineer | Tech Explorer | Creative Problem Solver*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=1AF7FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Tasfia+Sumaiya+Ritu;Flutter+Developer;Mobile+App+Engineer;Creative+Problem+Solver" />
+
+---
+
+### ⚡ Crafting Smooth, Beautiful & Scalable Flutter Experiences  
+✨ Turning ideas into pixel-perfect apps with clean architecture & modern UI.
 
 </div>
 
 ---
 
-## 🌟 **About Me**  
-Hello! I am **Tasfia Sumaiya Ritu**, a passionate and dedicated **Flutter Developer** from **Bangladesh**, driven by the joy of building stunning, high-performance, and user-centric mobile applications.
+## 🔮 **About Me**
 
-💡 I enjoy turning ideas into interactive digital experiences. Whether it's designing smooth UI, crafting clean architecture, or integrating powerful APIs — I love every moment of it.
+I’m **Tasfia Sumaiya Ritu**, a passionate **Flutter Developer** from **Bangladesh**, dedicated to building mobile apps that are fast, responsive, visually appealing, and user-focused.  
 
-🌱 **Always evolving:** I constantly explore new technologies, frameworks, and patterns to sharpen my skills and stay ahead in the rapidly changing tech world.
+I love:  
+✔ Bringing UI designs to life  
+✔ Writing clean, maintainable code  
+✔ Finding creative solutions to complex problems  
+✔ Learning new technologies every day  
 
-🎯 **Vision:** To become a world-class Software Engineer capable of building impactful products that people love and rely on.
-
----
-
-## ⚙️ **Tech Stack & Expertise**  
-
-### 💻 **Programming Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🎨 **Flutter Ecosystem**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
-![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge)
-
-- State Management (GetX, Provider)  
-- Custom UI/UX & Animations  
-- Clean Architecture  
-
-### 🗄️ **Backend & Database**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
-- Firestore & Realtime DB  
-- Authentication & Cloud Messaging  
-- API Integration  
-
-### 🧰 **Tools & IDEs**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+💭 **Mission:** Become a top-tier Software Engineer & create apps that truly make a difference.
 
 ---
 
-## 📱 **Highlighted Projects**
+## 🧩 **My Toolkit**
 
-### 🌤️ **Weather Forecast App**
-A polished, responsive weather application fetching real-time climate data.
+### 🖥️ **Languages**
+- 🟦 C  
+- 🟦 C++  
+- 💙 Dart  
 
-✨ **Features**
-- Real-time weather updates  
-- Auto location detection  
-- Animated weather icons  
-- Modern UI design  
+### 📱 **Frameworks & State Management**
+- Flutter  
+- GetX  
+- Provider  
+- Custom Widgets & Animations  
 
-**Tech Used:** Flutter · Provider · REST API · Geolocator  
-🔗 **Repository:** https://github.com/your-github-username/weather-app  
+### ☁️ **Backend & Cloud**
+- Firebase (Auth, Firestore, Messaging)  
+- REST API Integration  
+- JSON Handling  
 
----
-
-### 🚚 **Parcel Delivery App**
-A powerful concept app designed for parcel tracking and delivery management.
-
-✨ **Features (Upcoming)**
-- Live parcel tracking  
-- Delivery partner dashboard  
-- OTP-based verification  
-- Route optimization  
-
-**Tech Used:** Flutter · Provider · REST API · Firebase  
-🔗 **Repository:** https://github.com/your-github-username/delivery-app  
+### 🛠️ **Tools I Use**
+- Git & GitHub  
+- VS Code  
+- Android Studio  
+- Postman  
+- Figma (UI/UX previews)
 
 ---
 
-## 📊 **GitHub Activity & Stats**
-> Replace `your-github-username` with your actual username.
+## 🚀 **Featured Projects**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
-</p>
+### 📍 **Weather App**
+A beautifully crafted weather app showing real-time climate data.
 
----
+**✨ Highlights:**  
+- Geolocator and Geocoding
+- Auto Location  
+- Live Weather API  
+- Animated Icons  
+- Minimal & Modern UI  
 
-## 🤝 **Let’s Connect**
-📩 Email: *your-email@example.com*  
-💼 LinkedIn: *your-linkedin-profile*  
-🐙 GitHub: *your-github-username*  
+🔗 Repo: https://github.com/your-github-username/weather-app  
 
 ---
 
-✨ *Thanks for visiting my profile! Always excited to learn, build, and grow.*  
+### 📦 **Parcel Delivery App**
+A delivery & tracking app designed to simplify logistics.
+
+**✨ Features:**  
+- Api Integration
+- Live Tracking  
+- OTP Verification  
+- Rider Dashboard  
+- Push Notifications  
+
+🔗 Repo: https://github.com/your-github-username/delivery-app
+
+---
+
+## 📊 **GitHub Insights**
+
+<div align="center">
+
+### 🔥 Coding Activity Snapshot  
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+
+### 🎨 Language Preference  
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true&theme=radical" />
+
+### ⚡ Contribution Streak  
+<img width="430" src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&hide_border=true&theme=radical" />
+
+</div>
+
+---
+
+## 🌐 **Connect With Me**
+
+- 📩 Email: your-email@example.com  
+- 💼 LinkedIn: your-linkedin-profile  
+- 🐙 GitHub: your-github-username  
+
+---
+
+<div align="center">
+
+### ✨ *Thanks for stopping by! Let’s build something extraordinary together.*  
+
+</div>
