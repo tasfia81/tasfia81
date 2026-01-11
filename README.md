@@ -67,7 +67,7 @@ A beautifully crafted weather app showing real-time climate data.
 
 ---
 
-### 📦 **Task Manager**
+### 📝 **Task Manager**
 A simple and user-friendly Task Manager application built with Flutter.
 
 **✨ Features:**  
@@ -81,7 +81,7 @@ A simple and user-friendly Task Manager application built with Flutter.
 
 ---
 
-### 📦 **BMI Calculator**
+### 📱 **BMI Calculator**
 A simple and interactive BMI (Body Mass Index) Calculator application built using Flutter.
 This app allows users to calculate their BMI based on height and weight and shows the health category instantly.
 
@@ -133,8 +133,8 @@ A delivery & tracking app designed to simplify logistics.
 ## 🌐 **Connect With Me**
 
 - 📩 Email: tasfiaislam502@gmail.com  
-- 💼 LinkedIn: your-linkedin-profile  
-- 🐙 GitHub: your-github-username  
+- 💼 LinkedIn: https://www.linkedin.com/in/tasfia-islam-91349b373/  
+- 🐙 GitHub: tasfia81  
 
 ---
 
