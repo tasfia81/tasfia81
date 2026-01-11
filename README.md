@@ -63,9 +63,40 @@ A beautifully crafted weather app showing real-time climate data.
 - Animated Icons  
 - Minimal & Modern UI  
 
-🔗 Repo: https://github.com/your-github-username/weather-app  
+🔗 Repo: https://github.com/tasfia81/Weather-App-with-API 
 
 ---
+
+### 📦 **Task Manager**
+A simple and user-friendly Task Manager application built with Flutter.
+
+**✨ Features:**  
+- ➕ Add new tasks easily
+- 📝 View task details
+- 📊 Task status summary (New, In Progress, Completed)
+- 📋 Task list with clean UI
+- 📱 Works on Android devices
+
+🔗 Repo: https://github.com/tasfia81/Task-Manager
+
+---
+
+### 📦 **BMI Calculator**
+A simple and interactive BMI (Body Mass Index) Calculator application built using Flutter.
+This app allows users to calculate their BMI based on height and weight and shows the health category instantly.
+
+**✨ Features:**  
+- 📏 Height input using slider (cm / feet supported)
+- ⚖️ Weight input using slider
+- 🧮 Automatic BMI calculation
+- 📊 BMI category display (Underweight, Normal, Overweight, Obesity)
+- ⚡ Real-time result update
+- 🎨 Clean and beautiful UI
+
+🔗 Repo: https://github.com/tasfia81/BMI-Calculator
+
+---
+
 
 ### 📦 **Parcel Delivery App**
 A delivery & tracking app designed to simplify logistics.
@@ -77,9 +108,10 @@ A delivery & tracking app designed to simplify logistics.
 - Rider Dashboard  
 - Push Notifications  
 
-🔗 Repo: https://github.com/your-github-username/delivery-app
+🔗 Repo: https://github.com/tasfia81/Parcel-Delivery-App
 
 ---
+
 
 ## 📊 **GitHub Insights**
 
